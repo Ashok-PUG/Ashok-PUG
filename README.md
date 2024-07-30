@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ashok Kumar</h1>
-<h3 align="center">I am a student pursuing a Bachelor of Science in cloud computing and solutions.</h3>
+<h3 align="center">I am a student pursuing a Bachelor of Science in Cloud Computing and Solutions.</h3>
 
 - 🔭 I’m currently working on **Capstone Project**
 
